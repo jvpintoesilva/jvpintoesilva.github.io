@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Main Page"
+    url: https://jvpintoesilva.github.io/
+
   - title: "Publications"
     url: /publications/
-
- # - title: "Talks"
-   # url: /talks/    
 
   #- title: "Teaching"
    # url: /teaching/    
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: http://lattes.cnpq.br/7931559004112832
     
-  #- title: "Guide"
-   # url: /markdown/
+  - title: "PT-BR"
+    url: /Pt-Br/
