@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "A Homepage from someone known as JV"
+title                    : "JV"
 title_separator          : "-"
 name                     : &name "João Vitor Pinto e Silva"
 description              : &description ""
