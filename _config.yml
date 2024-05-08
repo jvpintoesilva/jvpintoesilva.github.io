@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "João Vitor Pinto e Silva "
+title                    : "João Vitor Pinto e Silva (JV)"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "João Vitor Pinto e Silva"
+description              : &description ""
 url                      : https://jvpintoesilva.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "joao vitor ps at outlook dot com" 
+  email            : "joaovitorps@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
