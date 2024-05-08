@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "João Vitor Pinto e Silva (JV)"
+title                    : "A Homepage from someone known as JV"
 title_separator          : "-"
 name                     : &name "João Vitor Pinto e Silva"
 description              : &description ""
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "JV"
+  name             : "João Vitor Pinto e Silva (JV)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hopefully a good teacher and researcher."
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
